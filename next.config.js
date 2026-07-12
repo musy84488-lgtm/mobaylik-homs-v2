@@ -1,10 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   swcMinify: false,
-  experimental: {
-    forceSwcTransforms: false,
-  },
+  output: 'export',
+  distDir: 'dist',
   images: {
+    unoptimized: true,
     domains: ['images.unsplash.com'],
   },
 }

@@ -1,5 +1,5 @@
-import { Award, Users, Smartphone, Heart, CheckCircle } from 'lucide-react';
-import { motion } from 'framer-motion';
+import { Phone, Award, Users, Smartphone, Heart, CheckCircle } from 'lucide-react';
+import { Phone, motion } from 'framer-motion';
 
 export default function AboutPage() {
   const values = [
