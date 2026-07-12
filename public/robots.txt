@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mobaylik-homs.vercel.app/sitemap.xml
